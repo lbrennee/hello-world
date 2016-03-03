@@ -1,9 +1,8 @@
-Microsoft Bing Maps API:
+Microsoft Bing Maps API
 Documentation: https://msdn.microsoft.com/en-us/library/ff701716.aspx
 
-Key: AmTe7gFDHXRVex6AJpyKjVQq5gsku0L-N6mgnTFvER0mlbI9SoLsZ8F0UN6FWlVr
+My Key: AmTe7gFDHXRVex6AJpyKjVQq5gsku0L-N6mgnTFvER0mlbI9SoLsZ8F0UN6FWlVr
 
-BingMap Birdseye Image Metadata:
-
+BingMap Birdseye Image Metadata Example:
 http://dev.virtualearth.net/REST/V1/Imagery/Metadata/Aerial/41.089832,-73.928822?zl=15&o=xml&key= AmTe7gFDHXRVex6AJpyKjVQq5gsku0L-N6mgnTFvER0mlbI9SoLsZ8F0UN6FWlVr
 
