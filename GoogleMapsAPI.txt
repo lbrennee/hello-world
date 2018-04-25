@@ -1,5 +1,0 @@
-API Key: AIzaSyCmL2zp4yHERkKSKtsX0VF5EclQAY8MEH4
-
-Example Used for Greenwich Project: https://maps.googleapis.com/maps/api/geocode/json?address=U.S. 1+and+Holly+Hill+Ln,+greenwich,+CT&key=AIzaSyCmL2zp4yHERkKSKtsX0VF5EclQAY8MEH4
-
-Standard Example: https://maps.googleapis.com/maps/api/geocode/xml?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=YOUR_API_KEY
